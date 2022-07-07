@@ -11,7 +11,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://medium.com/@vedant13111998/logging-using-efk-for-litmuschaos-efaffecae7d6)
+- [Logging using EFK for LitmusChaos](https://medium.com/@vedant13111998/logging-using-efk-for-litmuschaos-efaffecae7d6)
 - [E2E Dashboard at LitmusChaos](https://medium.com/@vedant13111998/e2e-dashboard-at-litmuschaos-90af98e0a721)
 - [Cloud Native Application & Testing Automation](https://medium.com/@vedant13111998/cloud-native-application-testing-automation-c986bbd84b28)
 - [Frontend Optimization at LitmusChaos](https://medium.com/@vedant13111998/frontend-optimization-at-litmuschaos-2fc839911436)
