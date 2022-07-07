@@ -9,6 +9,15 @@
 <a href="https://www.hackerrank.com/vedant13111998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedant13111998" height="30" width="40" /></a>
 </p>
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [How to prevent GitHub from suspending your cronjob based triggers](https://medium.com/@vedant13111998/logging-using-efk-for-litmuschaos-efaffecae7d6)
+- [E2E Dashboard at LitmusChaos](https://medium.com/@vedant13111998/e2e-dashboard-at-litmuschaos-90af98e0a721)
+- [Cloud Native Application & Testing Automation](https://medium.com/@vedant13111998/cloud-native-application-testing-automation-c986bbd84b28)
+- [Frontend Optimization at LitmusChaos](https://medium.com/@vedant13111998/frontend-optimization-at-litmuschaos-2fc839911436)
+- [End-To-End Testing Using Cypress](https://dev.to/litmus-chaos/cypress-end-to-end-testing-and-experience-cn4)
+<!-- BLOG-POST-LIST:END -->
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonsy13&show_icons=true&locale=en&layout=compact" alt="jonsy13" /></p>
 
