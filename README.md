@@ -1,25 +1,33 @@
-<h1 align="center">Hi 👋, I'm Vedant Shrotria</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonsy13&label=Profile%20views&color=0e75b6&style=flat" alt="jonsy13" /> </p>
+## Hi there, I'm Vedant Shrotria 👋 ![](https://komarev.com/ghpvc/?username=developer-guy&color=green&&style=flat)
 
-🔗 &nbsp;**Connect with me**
+Hi, I'm [Vedant Shrotria](https://www.linkedin.com/in/vedant-shrotria/), a Software Engineer 🚀 from India :india:.
+
+### 🧰 Languages and Tools
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+### :octocat: Github Statistics
+
 <p align="left">
-<a href="https://dev.to/jonsy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jonsy13" height="30" width="40" /></a>
-<a href="https://twitter.com/vedantshrotria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantshrotria" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedant-shrotria-09a0ab188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-shrotria-09a0ab188" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedant13111998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedant13111998" height="30" width="40" /></a>
+<img  src="https://github-readme-stats.vercel.app/api?username=jonsy13&show_icons=true&theme=radical" alt="jonsy13" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonsy13&layout=compact&hide=html&theme=radical" alt="jonsy13"/>
 </p>
 
-📕 &nbsp;**Latest Blog Posts**
+### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Logging using EFK for LitmusChaos](https://medium.com/@vedant13111998/logging-using-efk-for-litmuschaos-efaffecae7d6)
-- [E2E Dashboard at LitmusChaos](https://medium.com/@vedant13111998/e2e-dashboard-at-litmuschaos-90af98e0a721)
+- [Logging using EFK (ElasticSearch + FluentD + kibana) for LitmusChaos](https://medium.com/@vedant13111998/logging-using-efk-for-litmuschaos-efaffecae7d6)
+- [End-To-End Testing dashboard at LitmusChaos](https://medium.com/@vedant13111998/e2e-dashboard-at-litmuschaos-90af98e0a721)
 - [Cloud Native Application & Testing Automation](https://medium.com/@vedant13111998/cloud-native-application-testing-automation-c986bbd84b28)
 - [Frontend Optimization at LitmusChaos](https://medium.com/@vedant13111998/frontend-optimization-at-litmuschaos-2fc839911436)
 - [End-To-End Testing Using Cypress](https://dev.to/litmus-chaos/cypress-end-to-end-testing-and-experience-cn4)
 <!-- BLOG-POST-LIST:END -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonsy13&show_icons=true&locale=en&layout=compact" alt="jonsy13" /></p>
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
+<a href="https://www.linkedin.com/in/vedant-shrotria/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="jonsy13" /></a>
+<a href="https://medium.com/@vedant13111998" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@vedant13111998" /></a>
+<a href="https://dev.to/jonsy13" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="jonsy13" /></a>
+<a href="https://twitter.com/vedantShrotria" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="jonsy13" /></a>
+<a href="https://www.hackerrank.com/vedant13111998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedant13111998" height="30" width="40" /></a>
+</p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonsy13&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="jonsy13" />
 
