@@ -1,4 +1,4 @@
-## Hi there, I'm Vedant Shrotria 👋 ![](https://komarev.com/ghpvc/?username=developer-guy&color=green&&style=flat)
+## Hi there, I'm Vedant Shrotria 👋 ![](https://komarev.com/ghpvc/?username=jonsy13&color=green&&style=flat)
 
 Hi, I'm [Vedant Shrotria](https://www.linkedin.com/in/vedant-shrotria/), a Software Engineer 🚀 from India :india:.
 
