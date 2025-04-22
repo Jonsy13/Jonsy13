@@ -23,8 +23,16 @@ Hi, I'm [Vedant Shrotria](https://www.linkedin.com/in/vedant-shrotria/), a Softw
 - [Cloud Native Application & Testing Automation](https://medium.com/@vedant13111998/cloud-native-application-testing-automation-c986bbd84b28)
 - [Frontend Optimization at LitmusChaos](https://medium.com/@vedant13111998/frontend-optimization-at-litmuschaos-2fc839911436)
 - [End-To-End Testing Using Cypress](https://dev.to/litmus-chaos/cypress-end-to-end-testing-and-experience-cn4)
+- [Ingress Setup with Self-Signed Certificate for Testing in Kubernetes using nip.io, OpenSSL & Ingress-NGINX Controller](https://medium.com/@vedant13111998/ingress-setup-with-self-signed-certificate-for-testing-in-kubernetes-a2969f518326)
+- [Enforcing Test Coverage in Go Monorepos: Automating PR Checks Like a Pro](https://medium.com/@vedant13111998/enforcing-test-coverage-in-go-monorepos-automating-pr-checks-like-a-pro-4127e6bf045b)
 <!-- BLOG-POST-LIST:END -->
 
+### :card_index: Speaker at Conferences
+<!-- BLOG-POST-LIST:START -->
+- [From Chaos to Quality: Elevating LitmusChaos with CI/CD and Pull Requests](https://www.youtube.com/watch?v=hCJYv8uA88k&list=PLj6h78yzYM2NlSgX4uLuijL1IWy0fHl2U&index=6)
+- [Safeguarding SLAs and Building Resilient Systems: A Sneak Peek to Chaos Engineering Probes](https://www.youtube.com/watch?v=Agd6OTE33L0&list=PLj6h78yzYM2P0vFbS4o1I0gRHSiXgLiEe&index=35&t=1962s)
+- [Chaos Unleashed: LitmusChaos and Its Journey Towards CNCF Graduation](https://www.youtube.com/watch?v=beAoZ2fI-QQ&list=PLj6h78yzYM2MP0QhYFK8HOb8UqgbIkLMc&index=286&t=10s)
+<!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 <a href="https://www.linkedin.com/in/vedant-shrotria/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="jonsy13" /></a>
